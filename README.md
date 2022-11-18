@@ -1,6 +1,6 @@
 # myFirstPL
 
-<--<Program> --> `Letsgo ` <stmt_list> `phewDone `
+<Program> --> `Letsgo ` <stmt_list> `phewDone `
 <stmt_list> --> `[ ` <stmt> `; '`] `
 <stmt> --> <wooho_stmt> | <booho_stmt>  | <assignStmt>
 <wooho_stmt> --> `wohoo``( ` <bool_exp> `] ` <stmt> ]
