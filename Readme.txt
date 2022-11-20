@@ -35,7 +35,10 @@ PartC: it is llgrammer as the grammer stated above is starting from top
 
 PartD: This grammer is not ambiguous as no rule in this grammer goes to 2 different places.
 
-Part G:  
+Part G: The four files with the code are
+        correct Code: PrChecker, corSy2
+        Syntax Error: errSyn
+        Lexical Error: errLex
 
 Parth: Correct Code examples: LRCorrectCode1 and LRCorrectCode2
 Incorrect Code examples:        LRWrCode1: if doesnt exist in the grammer
