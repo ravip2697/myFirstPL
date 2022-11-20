@@ -10,7 +10,9 @@ A & B) Language Grammer:
 
 <assignStmt> --> `id` `= ` <expr>
 
-<expr> --> <leastPrec>   (`*` | `/`) <leastPrec> | <leastPrec>
+<expr> --> <leastPrec>   `*` <leastPrec> | <leastPrec>
+
+<LeastPrec> --> <LitPrec> `/` <litPrec> | <litPrec>
 
 <litPrec> --> <muchPrec> { (`+` | `-`) <muchPrec> } | <muchPrec>
 
