@@ -18,13 +18,13 @@ A & B) Language Grammer:
 
 <muchPrec> --> `id` | `microN` | `nanoN` | `picoN` | `{` <expr `}`
 
-<bool_exp> --> <expr> ( < | > | <= | >= | == | != ) <expr>
+<bool_exp> --> <expr> ( `<` | `>` | `<=` | `>=` | `==` | `!=` ) <expr>
 
-varAssign = varType varName ;
+varAssign = varType varName `;`
 
 varType = `microN` | `nanoN` | `picoN`
 
-varName --> ^[a-z] [a-zA-Z_]{5,8}
+varName --> ^[a-z][a-zA-Z_]{5,8}
 
 PartB:
 
