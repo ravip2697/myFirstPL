@@ -16,7 +16,7 @@ A & B) Language Grammer:
 
 <muchPrec> --> `id` | `microN` | `nanoN` | `picoN` | `{` <expr `}`
 
-<bool_exp> --> <expr> ( < | > | <= | >= | == | != ) <E>
+<bool_exp> --> <expr> ( < | > | <= | >= | == | != ) <expr>
 
 varAssign = varType varName ;
 
