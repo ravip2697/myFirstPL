@@ -1,0 +1,9 @@
+BeginTheStuff [ 
+nanoN abc_def ;
+microN abcde_ = 1 ;
+
+nanoN += 0;     
+whoop ( a < b ) {
+x >= 1 + 2 ;
+}
+] phewDone

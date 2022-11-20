@@ -1,0 +1,7 @@
+BeginTheStuff [ 
+lit_Int abc_def ;
+nanoN += 0;
+whoop ( a < b ) {
+x = 1 + 22 ;
+}
+] phewDone
