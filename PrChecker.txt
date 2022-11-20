@@ -1,7 +1,7 @@
 BeginTheStuff [ 
-lit_Int abc_def ;
-nanoN += 0;
-whoop ( a < b ) {
-x = 1 + 22 ;
+nanoN abc_def ;
+abc_def = 0 ;
+wohoo ( abc_def < ghi_jkl ) {
+abc_def = 1 + 22 ;
 }
 ] phewDone
