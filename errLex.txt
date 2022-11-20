@@ -1,0 +1,20 @@
+Letsgo [ 
+microN ab1245 = 0;
+int fghi_jkl ;
+abc_def = 0 ;
+fghi_jkl = 10 ;
+wohoo ( ab1245 < fghi_jkl ) [
+abc_def += fghi_jkl + 2 
+fghi_jkl = abc_def + 5 ;
+]
+]
+
+
+'''
+Errors in the current Program
+1) Line 2: Variable name cannot have digits in it
+2)Line 2: Cannot initialize and assign a variable on the same line
+3) Line 3: int does not exist as a datatype in the Language.
+4) Line 7 += operation does not exist in the Language
+5) line 10 or end: the program never ended as phewDone is required in order to finish the program.
+'''

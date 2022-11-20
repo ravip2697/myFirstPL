@@ -1,0 +1,9 @@
+Letsgo [ 
+microN greaterN ;
+microN smallerN ;
+greaterN = 15 ;
+smallerN = 5 ;
+oneLoo ( smallerN < greaterN ) [
+greaterN = greaterN + 1 ;
+]
+] phewDone

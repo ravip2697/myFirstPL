@@ -1,0 +1,7 @@
+Letsgo [ 
+nanoN abc_def ;
+abc_def = 0 ;
+wohoo ( abc_def < ghi_jkl ) {
+abc_def = 1 + 22 ;
+}
+] phewDone

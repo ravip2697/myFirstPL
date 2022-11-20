@@ -1,0 +1,27 @@
+Letsgo [ 
+microN abcdefg = 0;
+int fghi_jkl ;
+fghijkl = 0;
+fghi_jkl = 10
+wohoo ( ab1245 < fghi_jkl ) [
+abc_def += fghi_jkl + 2 
+fghi_jkl = abc_def + 5 ;
+]
+
+
+'''
+Syntax errors in current program
+
+Line 2: Cannot initialize and assign a variable on the same line after variable
+        declaration a semicolon is expected.
+
+Line 4: fghijkl variable was never initialized
+
+Line 5: semicolon expected at the end
+
+Line 9 or 10: a closing square bracket expected which was opened on line 1.
+
+Line 9 or 10: phewDone expected to end the program
+
+'''
+
