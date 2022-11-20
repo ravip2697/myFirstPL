@@ -1,0 +1,9 @@
+BeginTheStuff [ 
+microN greaterNum ;
+microN smallerNum ;
+greaterNum = 15 ;
+smallerNum = 5 ;
+oneLoo ( smallerNum < greaterNum ) [
+greaterNum = greaterNum + 1;
+]
+] phewDone
